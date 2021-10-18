@@ -1,0 +1,13 @@
+_word_ = italic
+**word** = bold
+use both(italic and bold) = **_word_**
+#word = make HEADER SIZE 1
+##word = make HEADER SIZE 2 ...
+[link] = for make a link in text 
+![](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) = for show images
+
+[Black cat][Black] = make a image link text
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+> word = to make a sar fasl
+* word = to make a circular shape first of word
